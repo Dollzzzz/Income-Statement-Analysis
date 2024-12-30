@@ -1,7 +1,7 @@
 
 # Basic Income Statement Analysis
 
-### Dashboard Link : [Income Statement Analysis](https://app.powerbi.com/view?r=eyJrIjoiZmExYjc3N2EtOTlmMi00MDU1LWE3Y2MtMjNjODM4MTliM2IxIiwidCI6ImJlOWY4YzM3LTc4MjctNGQ2ZC04NDg3LTQ4ZjhjYmFjZGJlZiIsImMiOjl9)
+### Dashboard Link : [Income Statement Analysis](https://app.powerbi.com/view?r=eyJrIjoiNWQzMDY2MjItM2NhOS00NzZjLTkzYzItMjBhMTNhNmNjMjc0IiwidCI6ImJlOWY4YzM3LTc4MjctNGQ2ZC04NDg3LTQ4ZjhjYmFjZGJlZiIsImMiOjl9)
 
 ## Problem Statement
 
